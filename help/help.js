@@ -449,7 +449,7 @@ Atau kalian juga bisa donasi melalui QRis diatas.
 Terima kasih!
 
 Contact person Owner:
-wa.me/+6285778815524(Owner)
+wa.me/+6285822347348(Owner)
 
 Untuk melihat script yang bot gunakan,ketik ${prefix}sc`
 }
